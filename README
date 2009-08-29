@@ -1,4 +1,9 @@
-Useful resource:
+This packages contains some configuration files and package
+dependencies to set up a Samsung Q45 laptop on Debian/Ubuntu.  Over
+time, most of this package should go away, as kernel, hal, etc. are
+updated and fixed.
+
+Some useful resources:
 
 http://meinemullemaus.de/lesen/q45/linux_q45.html
 http://robots.org.uk/SamsungQ45
