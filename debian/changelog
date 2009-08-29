@@ -1,4 +1,4 @@
-samsung-q45-support (20090830) UNRELEASED; urgency=low
+samsung-q45-support (20090830) private; urgency=low
 
   * Removed no longer needed xmodmap stuff
   * Updated standards version
