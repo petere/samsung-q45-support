@@ -1,0 +1,15 @@
+Source: samsung-q45-support
+Section: contrib/utils
+Priority: optional
+Maintainer: Peter Eisentraut <petere@debian.org>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.0
+
+Package: samsung-q45-support
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: firmware-iwlwifi, hal-info (>= 20080508+git20080601-1), pm-utils (>= 1.1.1)
+Suggests: linux-uvc-source
+Description: support for Samsung Q45 laptops
+ This packages contains some configuration files and package dependencies to
+ set up a Samsung Q45 laptop.

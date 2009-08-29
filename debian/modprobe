@@ -1,0 +1,4 @@
+# bug #475319
+blacklist video
+
+options snd-hda-intel model=hippo
