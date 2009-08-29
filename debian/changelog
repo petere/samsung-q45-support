@@ -1,3 +1,9 @@
+samsung-q45-support (20090830) UNRELEASED; urgency=low
+
+  * Removed no longer needed xmodmap stuff
+
+ -- Peter Eisentraut <petere@debian.org>  Sun, 30 Aug 2009 00:28:04 +0300
+
 samsung-q45-support (20080730) private; urgency=low
 
   * Initial release
